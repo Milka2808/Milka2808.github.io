@@ -675,6 +675,7 @@ body{
     opacity: 0.9;
     width: 368px;
     height: 368px;
+    margin-bottom: 30px;
 }
 .content .addresses div img{
     padding-top: 48px;
